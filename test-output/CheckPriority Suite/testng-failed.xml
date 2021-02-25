@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ CheckPriority Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="CheckPriority Test(failed)">
+    <classes>
+      <class name="com.vanran.tests.CheckPriorityTest">
+        <methods>
+          <include name="verifyaddPriority"/>
+          <include name="OpenBrowserGrade"/>
+          <include name="finish"/>
+        </methods>
+      </class> <!-- com.vanran.tests.CheckPriorityTest -->
+    </classes>
+  </test> <!-- CheckPriority Test(failed) -->
+</suite> <!-- Failed suite [ CheckPriority Suite] -->

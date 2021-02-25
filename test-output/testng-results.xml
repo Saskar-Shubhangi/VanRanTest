@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-19T14:54:21 IST" name="Suite" finished-at="2021-02-19T14:54:21 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite started-at="2021-02-19T14:54:04 IST" name=" LoginTest Suite" finished-at="2021-02-19T14:54:19 IST" duration-ms="15789">
+    <groups>
+    </groups>
+    <test started-at="2021-02-19T14:54:04 IST" name="Login Test" finished-at="2021-02-19T14:54:19 IST" duration-ms="15789">
+      <class name="com.vanran.tests.ItemsEditTest">
+        <test-method is-config="true" signature="OpenBrowserGrade()[pri:0, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:52:47 IST" name="OpenBrowserGrade" finished-at="2021-02-19T14:54:04 IST" duration-ms="76821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserGrade -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:54:04 IST" name="verifyLogin" finished-at="2021-02-19T14:54:06 IST" duration-ms="2841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyclickOnApplicationSetting()[pri:1, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:54:07 IST" name="verifyclickOnApplicationSetting" finished-at="2021-02-19T14:54:07 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnApplicationSetting -->
+        <test-method signature="verifyclickOnItems()[pri:2, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:54:07 IST" name="verifyclickOnItems" finished-at="2021-02-19T14:54:07 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnItems -->
+        <test-method signature="verifyclickOnEdit()[pri:3, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:54:07 IST" name="verifyclickOnEdit" finished-at="2021-02-19T14:54:16 IST" duration-ms="9433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnEdit -->
+        <test-method signature="verifyclickOnCheckBox()[pri:4, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:54:16 IST" name="verifyclickOnCheckBox" finished-at="2021-02-19T14:54:17 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnCheckBox -->
+        <test-method signature="verifyclickOnUpdate()[pri:5, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:54:17 IST" name="verifyclickOnUpdate" finished-at="2021-02-19T14:54:19 IST" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnUpdate -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.vanran.tests.ItemsEditTest@6631f5ca]" started-at="2021-02-19T14:54:20 IST" name="finish" finished-at="2021-02-19T14:54:21 IST" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.vanran.tests.ItemsEditTest -->
+    </test> <!-- Login Test -->
+  </suite> <!--  LoginTest Suite -->
+</testng-results>
